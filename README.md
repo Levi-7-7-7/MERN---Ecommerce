@@ -126,6 +126,17 @@ Now, the app will be running at:
 - Integrate payment gateway like Razorpay or Stripe.
 
 ---
+## 📷 Screenshots
+
+
+![Screenshot 2025-06-16 194415](https://github.com/user-attachments/assets/8c0054db-9460-4d2f-880b-1b1f0360d4b6)
+
+
+
+![Screenshot 2025-06-16 194423](https://github.com/user-attachments/assets/6c6db4e5-e1b3-4dde-9ca1-2a8bfd2934d4)
+
+
+---
 
 ## 🧑‍💻 Author
 
