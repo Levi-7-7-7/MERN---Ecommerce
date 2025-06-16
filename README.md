@@ -1,7 +1,3 @@
-Great — since you’ve uploaded your **current MERN Stack E-commerce project** to GitHub and want a `README.md` that reflects *only what’s currently implemented*, here’s a clean and accurate version for your repository:
-
----
-
 ### ✅ `README.md` for Your Current MERN Project
 
 ```markdown
@@ -110,7 +106,8 @@ App should now be running at:
 
 ## 📷 Screenshots
 
-*Add screenshots of your UI here (optional)*
+
+![Picture1](https://github.com/user-attachments/assets/8f30ca9b-daa5-43d3-92b1-7f3ae6275c44)
 
 ---
 
@@ -118,9 +115,4 @@ App should now be running at:
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-```
-
----
-
-Let me know if you want the `README.md` as a downloadable file or want me to push it to your repo structure.
 ```
