@@ -33,7 +33,7 @@ This is a simple E-Commerce application built using the MERN stack (MongoDB, Exp
 
 ## 🗃️ Folder Structure
 
-```
+
 
 E-commerce/
 ├── client/          # React Frontend
