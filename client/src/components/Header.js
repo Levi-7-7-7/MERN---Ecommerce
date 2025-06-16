@@ -13,8 +13,7 @@ const Header = () => {
       <div className='navbar-brand'>
         <h1 className='ecom'>My Ecommerce Website</h1>
       </div>
-      <div className='navbar-items'>
-        <h3 style={{ color: 'green' }}>Total Price: ₹{totalPrice}</h3>
+      <div className='navbar-items'>       
         <div className='cart-num'>
           <FontAwesomeIcon icon={faCartShopping} size='2x' />
           <div className='cart-items'>{itemsInCart}</div>
