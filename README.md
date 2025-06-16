@@ -107,7 +107,11 @@ App should now be running at:
 ## 📷 Screenshots
 
 
-![Picture1](https://github.com/user-attachments/assets/8f30ca9b-daa5-43d3-92b1-7f3ae6275c44)
+![Screenshot 2025-06-16 194415](https://github.com/user-attachments/assets/1ff8ed28-22a2-4da5-b12a-bd2d69e8fd64)
+
+
+![Screenshot 2025-06-16 194423](https://github.com/user-attachments/assets/86ac7ca9-d074-4c3b-bede-2c1a64ab1804)
+
 
 ---
 
